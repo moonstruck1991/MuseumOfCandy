@@ -50,7 +50,7 @@ body{
 }
 
 
-.navbar .scrolled{
+.scrolled{
     background: rgb(222, 192, 222);
 }
 @media(max-width: 1200px){
